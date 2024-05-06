@@ -1,5 +1,3 @@
-Here's the HTML code with UI/UX considerations applied:
-
 ```html
 <!DOCTYPE html>
 <html lang="en">
